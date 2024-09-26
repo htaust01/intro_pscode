@@ -2,3 +2,6 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+Get x, y coordinates of location and get x, y coordinates of user
+Find x and y distance and direction from user to location
+Output that data to the user

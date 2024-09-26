@@ -2,3 +2,12 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+Get a random number between 1 and 10 inclusive
+Do
+Get guess from user
+Check guess
+If correct tell user they are correct
+Else tell user they are not correct
+While guess is not correct and number of guesses is less than 3
+If not correct tell user they are out of guesses
+Exit
